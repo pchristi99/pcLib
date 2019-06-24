@@ -22,7 +22,7 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+# Other package files
 pcLib.Rproj
 NAMESPACE
 man
-.Rproj.user
