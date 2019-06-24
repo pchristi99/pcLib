@@ -8,4 +8,4 @@ Maintainer: P. Christiansen <pchristi@alumni.stanford.edu>
 Imports: lubridate, zoo, Hmisc, graphics, methods, stats, utils
 Description: Variety of utility funcs I use regularly.
 License: GPL-2
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.1
